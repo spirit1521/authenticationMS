@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AuthMicroservice.Application.DTO
+{
+    public class EmailSettingsDto
+    {
+        public string Host { get; set; } = string.Empty;
+        public int Port { get; set; } = 587;
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\bin\Debug\net10.0\AuthMicroservice.Domain.deps.json
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\bin\Debug\net10.0\AuthMicroservice.Domain.runtimeconfig.json
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\bin\Debug\net10.0\AuthMicroservice.Domain.dll
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\bin\Debug\net10.0\AuthMicroservice.Domain.pdb
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.csproj.AssemblyReference.cache
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.AssemblyInfoInputs.cache
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.AssemblyInfo.cs
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.sourcelink.json
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.dll
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\refint\AuthMicroservice.Domain.dll
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.pdb
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicroservice.Domain.genruntimeconfig.cache
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\ref\AuthMicroservice.Domain.dll
+C:\Users\parth\OneDrive\Desktop\Insurance-App\InsuranceApplication\Backend\Authentiation\AuthMicroservice\AuthMicroservice.Domain\obj\Debug\net10.0\AuthMicr.367EFB0E.Up2Date

@@ -1,0 +1,898 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7BEB8-7CD8-8CB7-C7F1-D5AB079BADC0}|AuthMicroservice\\AuthMicroservice.API.csproj|solutionrelative:authmicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\emailsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\emailsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\twofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\twofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|solutionrelative:authmicroservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\twofactorsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\twofactorsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\itwofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\itwofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\jwtsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\jwtsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\twofactorcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\twofactorcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.infrastructure\\service\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8B100-0489-B19A-1464-DBBC278B8458}|AuthMicroservice.Infrastructure\\AuthMicroservice.Infrastructure.csproj|solutionrelative:authmicroservice.infrastructure\\service\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\mapper\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\mapper\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\interface\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\interface\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\assignpermissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\assignpermissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\createpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\createpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\permissionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\permissionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.application\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35CF03-7881-74EC-FFB5-60E36D30BDE1}|AuthMicroservice.Application\\AuthMicroservice.Application.csproj|solutionrelative:authmicroservice.application\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|solutionrelative:authmicroservice.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|solutionrelative:authmicroservice.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|c:\\users\\parth\\onedrive\\desktop\\insurance-app\\insuranceapplication\\backend\\authentiation\\authmicroservice\\authmicroservice.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4330E6-85DD-7746-CE35-26AC9581FD1E}|AuthMicroservice.Domain\\AuthMicroservice.Domain.csproj|solutionrelative:authmicroservice.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\AuthService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:54:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:36:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:47:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Program.cs",
+              "RelativeToolTip": "AuthMicroservice\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:15:03.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\appsettings.json",
+              "RelativeToolTip": "AuthMicroservice\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T18:13:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:37:18.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv60AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:10:03.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\JwtService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:51:50.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\EmailService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:40:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:25:59.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailSettingsDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\EmailSettingsDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\EmailSettingsDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\EmailSettingsDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\EmailSettingsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:38:10.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:53:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\RoleService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\RoleService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\RoleService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:21:31.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TwoFactorService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\TwoFactorService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\TwoFactorService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\TwoFactorService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\TwoFactorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:45:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\UserService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\UserService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:43:55.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:40:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:35:30.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:30:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\ChangePasswordDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:29:13.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TwoFactorSetupDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\TwoFactorSetupDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\TwoFactorSetupDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\TwoFactorSetupDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\TwoFactorSetupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:45:14.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AuthMicroservice.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:11:12.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\UpdateUserDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:37:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITwoFactorService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\ITwoFactorService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\ITwoFactorService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\ITwoFactorService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\ITwoFactorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:32:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20261022185015_auth.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Migrations\\20261022185015_auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:50:15.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20261022183348_auth.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Migrations\\20261022183348_auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:33:50.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:04:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IJwtService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IJwtService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:47:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtSettingsDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\JwtSettingsDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\JwtSettingsDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\JwtSettingsDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\JwtSettingsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:43:06.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TwoFactorCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\TwoFactorCodeDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\TwoFactorCodeDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\TwoFactorCodeDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\TwoFactorCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:44:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:38:24.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\UserResponseDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:39:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\PermissionService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Infrastructure\\Service\\PermissionService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Infrastructure\\Service\\PermissionService.cs",
+              "RelativeToolTip": "AuthMicroservice.Infrastructure\\Service\\PermissionService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:21:49.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IUserService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:42:10.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreateUserDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:33:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthMapper.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Mapper\\AuthMapper.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Mapper\\AuthMapper.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Mapper\\AuthMapper.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Mapper\\AuthMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:34:06.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:32:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Exceptions\\AppExceptions.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Exceptions\\AppExceptions.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Exceptions\\AppExceptions.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Exceptions\\AppExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:11:24.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IPermissionService.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\Interface\\IPermissionService.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\Interface\\IPermissionService.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\Interface\\IPermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:31:30.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AssignPermissionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\AssignPermissionsDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\AssignPermissionsDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\AssignPermissionsDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\AssignPermissionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:29:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreatePermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreatePermissionDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\CreatePermissionDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreatePermissionDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\CreatePermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:28:02.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\CreateRoleDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:26:56.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PermissionResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\PermissionResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\PermissionResponseDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\PermissionResponseDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\PermissionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:25:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Application\\DTO\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Application\\DTO\\RoleResponseDto.cs",
+              "RelativeToolTip": "AuthMicroservice.Application\\DTO\\RoleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:24:35.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Domain\\Entities\\RolePermission.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "AuthMicroservice.Domain\\Entities\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:12:05.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Domain\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "AuthMicroservice.Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:11:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\parth\\OneDrive\\Desktop\\Insurance-App\\InsuranceApplication\\Backend\\Authentiation\\AuthMicroservice\\AuthMicroservice.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "AuthMicroservice.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:11:29.799Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 628,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
